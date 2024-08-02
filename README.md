@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mertozyaldev
+- 👋 Hi, I’m @mertozyalcin
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript and Node JS
 - 📨 You can contact me with this mail : mertdvlpr@gmail.com
